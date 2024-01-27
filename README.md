@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Machine Learning & Deep Learning
-- 📫 How to reach me? Mail me at swapnanildasnitrkl@gmail.com
+- 📫 How to reach me? Mail me at swapnanildas47@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My life my fun, ha ha just kidding.
 
